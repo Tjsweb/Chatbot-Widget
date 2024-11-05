@@ -15,10 +15,10 @@
     "style-loader": "^4.0.0",
     "ts-loader": "^9.5.1",
     "typescript": "^5.6.3",
-    "webpack": "^5.95.0"
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "webpack-cli": "^5.1.4",
     "@google/generative-ai": "^0.21.0"
   }
 }
